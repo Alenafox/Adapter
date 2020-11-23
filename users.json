@@ -1,0 +1,19 @@
+{
+  "users": [
+    {"name": "Robert", "phoneNumber":2009, "sex":"man"},
+    {"name": "John", "phoneNumber":2007, "sex":"man"},
+    {"name": "Belt", "phoneNumber":1993, "sex":"unknown"},
+    {"name": "Julia", "phoneNumber":2012, "sex":"woman"},
+    {"name": "Cindy", "phoneNumber":2011, "sex":"woman"},
+    {"name": "Alex", "phoneNumber":21239, "sex":"man"},
+    {"name": "Alfred", "phoneNumber":2032407, "sex":"man"},
+    {"name": "Brandon123", "phoneNumber":199343, "sex":"unknown"},
+    {"name": "Alexandra", "phoneNumber":2013452, "sex":"woman"},
+    {"name": "Alice", "phoneNumber":2012311, "sex":"woman"},
+    {"name": "Ben", "phoneNumber":34409, "sex":"man"},
+    {"name": "Bob", "phoneNumber":2002347, "sex":"man"},
+    {"name": "Bud213", "phoneNumber":1994353, "sex":"unknown"},
+    {"name": "Amy", "phoneNumber":2012312, "sex":"woman"},
+    {"name": "Christina", "phoneNumber":1232011, "sex":"woman"}
+  ]
+}
